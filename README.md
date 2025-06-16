@@ -1,7 +1,7 @@
 Analysis of Digital India Land Records Modernization Programme
 
 The Government of India has been digitizing the land records in its villages as part of its Digital India Land Records Modernization Programme under the Depart-
-ment of Land Resources within the Ministry of Rural Development. The dataset dilrpmp.xlsx (uploaded in Goole Classroom) provide some details of the exist-
+ment of Land Resources within the Ministry of Rural Development. The dataset dilrpmp.xlsx  provide some details of the exist-
 ing status of the program for each state (accessed and compiled for the DILRMP website). The variable map_total gives the total number cadastral maps, and
 map_goodcondition and map_digitized give the number of maps in good condition and are digitized, respectively. total_ villages is the total number of villages in a
 state, CLR_completed is the number of villages with computerization of land records completed. CLR_allocation and survey_ allocation are financial allocations (in
